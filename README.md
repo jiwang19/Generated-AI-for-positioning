@@ -13,3 +13,11 @@ that: 1) for the case of limited labeled samples, the proposed S-MAE model has s
 
 ####  Sub-connected TTD-based hybrid beamforming architecture
 <img decoding="async" src="./img/frameworknew.png" width="50%">
+
+## Running the simulations
+
+### Prerequisites
+
+Python
+
+### Launch
