@@ -9,7 +9,7 @@ the feature extraction ability in the S-MAE. In the fine-tuning stage, we use li
 that: 1) for the case of limited labeled samples, the proposed S-MAE model has superior positioning accuracy compared to conventional positioning models. 2) For the case of non-ideal CIR scenarios, the robustness performance of the S-MAE is better than that of other benchmark models. 3) The performance gain of the proposed S-MAE under different masking patterns/ratios on the CIR sample is presented, which verifies the effectiveness of the proposed masking strategy.
 
 ####  Fully-connected TTD-based hybrid beamforming architecture
-<img decoding="async" src="./img/Base.jpg" width="50%">
+<img decoding="async" src="./img/Base.png" width="50%">
 
 ####  Sub-connected TTD-based hybrid beamforming architecture
-<img decoding="async" src="./img/framework.jpg" width="50%">
+<img decoding="async" src="./img/framework.png" width="50%">
