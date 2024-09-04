@@ -12,4 +12,4 @@ that: 1) for the case of limited labeled samples, the proposed S-MAE model has s
 <img decoding="async" src="./img/Base.png" width="50%">
 
 ####  Sub-connected TTD-based hybrid beamforming architecture
-<img decoding="async" src="./img/framework.png" width="50%">
+<img decoding="async" src="./img/frameworknew.png" width="50%">
