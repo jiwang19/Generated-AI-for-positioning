@@ -8,13 +8,14 @@ model, which can be divided into pre-training and fine-tuning stage. In the pre-
 the feature extraction ability in the S-MAE. In the fine-tuning stage, we use limited labeled CIR samples to fine-tune the pretraining model in a manner of supervised learning, where the long short term memory (LSTM) network is introduced to realize the mapping from CIR to user coordinates. Experiment results show
 that: 1) for the case of limited labeled samples, the proposed S-MAE model has superior positioning accuracy compared to conventional positioning models. 2) For the case of non-ideal CIR scenarios, the robustness performance of the S-MAE is better than that of other benchmark models. 3) The performance gain of the proposed S-MAE under different masking patterns/ratios on the CIR sample is presented, which verifies the effectiveness of the proposed masking strategy.
 
-####  Fully-connected TTD-based hybrid beamforming architecture
+####  The distribution of BSs and users
 <img decoding="async" src="./img/Base.png" width="50%">
 
-####  Sub-connected TTD-based hybrid beamforming architecture
+####   Proposed overall framework
 <img decoding="async" src="./img/frameworknew.png" width="50%">
 
 ## Running the simulations
+The dataset can be downloaded at -[datafountain](https://www.datafountain.cn/compe titions/575/datasets) and https://ieee-dataport.org/open-access/ultra-denseindoor-mamimo-csi-dataset
 
 ### Prerequisites
 
