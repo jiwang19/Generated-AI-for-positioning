@@ -15,7 +15,7 @@ that: 1) for the case of limited labeled samples, the proposed S-MAE model has s
 <img decoding="async" src="./img/frameworknew.png" width="50%">
 
 ## Running the simulations
-The dataset can be downloaded at -[datafountain](https://www.datafountain.cn/compe titions/575/datasets) and https://ieee-dataport.org/open-access/ultra-denseindoor-mamimo-csi-dataset
+The dataset can be downloaded at - [datafountain](https://www.datafountain.cn/compe titions/575/datasets) and https://ieee-dataport.org/open-access/ultra-denseindoor-mamimo-csi-dataset
 
 ### Prerequisites
 
